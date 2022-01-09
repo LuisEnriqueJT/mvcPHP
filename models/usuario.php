@@ -38,5 +38,9 @@
 			return $this->password;
 		}
 
+		public function conseguirTodos(){
+			echo "Sacar a todos los usuarios";
+		}
+
 	}
 ?>
