@@ -12,7 +12,7 @@
 		}
 
 		public function crearUsuarios(){
-
+			require_once 'views/usuarios/crear.php';
 		}
 	}
 ?>
